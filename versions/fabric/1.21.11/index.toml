@@ -13,6 +13,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "b9d2b0cf22454e029e78e38e5f9e52f659d0ec521149099a4a80f73214593026"
 
 [[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "41c5f0c93f65808e9f7ca1f045ea5ad6179d06ef5becd1563d96c5dba25ced38"
+
+[[files]]
 file = "config/yosbr/config/bettergrass.json"
 hash = "69b07ae8cb0d37e1179a76c6c182f6746e7f86978e519e74162b8e30b6791452"
 
@@ -21,12 +25,28 @@ file = "config/yosbr/config/capes.json5"
 hash = "7823fc7bb5b474d3a39a2ff8e71054812499439cef63fbaa7124930de296c7cf"
 
 [[files]]
+file = "config/yosbr/config/chatpatches.json"
+hash = "ae901dfa2c69a517e82fbe18a46fe35af88921385de98827c6ccb607c308f797"
+
+[[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
 
 [[files]]
+file = "config/yosbr/config/collective.json5"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+
+[[files]]
 file = "config/yosbr/config/controlify.json"
 hash = "bc7cfadfe7121fdbd356c7992705ea6f484de518d3fd473eb8c59ea93e79a04d"
+
+[[files]]
+file = "config/yosbr/config/craftpresence.json"
+hash = "d9103c93f0edf783ea7d0aa0ceb8d2be4d3e2abba3eaf57a276ed6449236482b"
+
+[[files]]
+file = "config/yosbr/config/detailarmorbar.json"
+hash = "fd18627efe61fe1a022dad7227dbcff0b4561ee5f7b60fc7fcebfd44e8d52fdb"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
@@ -45,6 +65,14 @@ file = "config/yosbr/config/iris.properties"
 hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "0d5e4eabf6dffba48f4f5fc802c9818ba93ca0e2c0d023a21ea854ef43fc25bb"
+
+[[files]]
+file = "config/yosbr/config/locator-heads.json"
+hash = "5f648df746217a6a247e6a16f06d6602d35adc2274d266d92bf52cf09760157f"
+
+[[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
 
@@ -57,8 +85,56 @@ file = "config/yosbr/config/ok_zoomer/config.toml"
 hash = "a7c05cd6ad8a8fcd1399b40aefe221c9cbaa67e58fac4b477bda534ec92d9ded"
 
 [[files]]
+file = "config/yosbr/config/particlerain.json"
+hash = "f6ea176c4db6880ea1b7240d26f3b06798c836ead406dbdcdfc5928ef3f9c713"
+
+[[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "481193336b67c5a9a82beec77880556f3b92fd792cd8ea4414a904dd66acd733"
+
+[[files]]
+file = "config/yosbr/config/replaymod.json"
+hash = "f57a2b0f80151eea963e45047e9f4be6207ed62fd901caf44a5b25c232e7c40b"
+
+[[files]]
+file = "config/yosbr/config/resourcepackchecker/resourcepackchecker.properties"
+hash = "edd6cff9faf3fa7808cd9f96d303625722ef54ef5277384bf87b136ffc4452b6"
+
+[[files]]
+file = "config/yosbr/config/sound_physics_remastered/occlusion.properties"
+hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
+
+[[files]]
+file = "config/yosbr/config/sound_physics_remastered/reflectivity.properties"
+hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
+
+[[files]]
+file = "config/yosbr/config/sound_physics_remastered/sound_rates.properties"
+hash = "bec53c7888d4264e809d2d0b9c7541f10f03374e16d594b61558874c320bb70b"
+
+[[files]]
+file = "config/yosbr/config/sound_physics_remastered/soundphysics.properties"
+hash = "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/blocks.toml"
+hash = "75405a49386d5235e1389849438c97d7a05fa15086cc71fc108a162426c5fc57"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/entities.toml"
+hash = "fabc951cd42b2c72ea6548e72874d92d024aac40682b830f4b7ac63e05c95416"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/environment.toml"
+hash = "b696d45291dba9efb69038240ccfc3dc38c3202b17f107f5d17b212b35131d9c"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/general.toml"
+hash = "ff6d3365251b8497c6e3b9f8032cf3c20764932021821598df21d0bc2a0354d5"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/items.toml"
+hash = "8e091b4c5d52f8eafb4ee55a551d05f41d42a33a6c559920dbe0c1a1d324c55e"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
@@ -69,8 +145,16 @@ file = "config/yosbr/config/vmp.properties"
 hash = "244a5a217b4604782a66736cae23717c7871acd0e2bbd51dc2b28e4b642885f2"
 
 [[files]]
+file = "config/yosbr/config/voxy-config.json"
+hash = "b2a337975ff8b3fa70839280baa496c33591d5a8a58c6e167d4dbd6095db2b05"
+
+[[files]]
 file = "config/yosbr/config/world-host.json5"
 hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
+
+[[files]]
+file = "config/yosbr/config/zfastnoise.mixin.properties"
+hash = "8c1b50eb1fe7f39636ec317a7dff25a0d913581bb8222912004026585fabe453"
 
 [[files]]
 file = "config/yosbr/options.txt"
