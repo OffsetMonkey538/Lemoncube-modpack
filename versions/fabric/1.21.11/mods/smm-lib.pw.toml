@@ -1,0 +1,7 @@
+name = "smm-lib"
+filename = "ServerMainMenu-Lib-2.1.0.jar"
+
+[download]
+url = "https://maven.offsetmonkey538.top/releases/com/mosadie/servermainmenu/ServerMainMenu-Lib/2.1.0/ServerMainMenu-Lib-2.1.0.jar"
+hash-format = "sha256"
+hash = "ad20d08571a622f32f7f651186a4994267dcef235cb99e082a655f39fabf8e8a"

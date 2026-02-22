@@ -222,6 +222,11 @@ hash = "59d092d4627a3a2c01ba0c621e0de6e09d6b7c04e1f3230cd735740c4f1ea537"
 metafile = true
 
 [[files]]
+file = "mods/lemoncube.pw.toml"
+hash = "e41568e0ad45998e78a949dba7d76b7f7cd46bd2fedfeaa1c85598beec869d61"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
 metafile = true
@@ -289,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/skyboxify.pw.toml"
 hash = "eaaba7e31678172acd73bcaf684528317703f8637c0cc16e382e7e034641a6b8"
+metafile = true
+
+[[files]]
+file = "mods/smm-lib.pw.toml"
+hash = "88b98f0c23ea2955037e7d9c18c313063cd8c1ba0832bbb1d621cb44b56f145b"
 metafile = true
 
 [[files]]

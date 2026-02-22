@@ -1,0 +1,7 @@
+name = "lemoncube"
+filename = "lemoncube-1.0.0.jar"
+
+[download]
+url = "https://codeberg.org/OffsetMonkey538/Lemoncube-mod/releases/download/1.0.0/lemoncube-1.0.0.jar"
+hash-format = "sha256"
+hash = "6c20b326992052534460b183f73e4bc0c01fbe5fbb682f961abe42824abd01d8"
