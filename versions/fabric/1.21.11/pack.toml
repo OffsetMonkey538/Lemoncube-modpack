@@ -1,12 +1,12 @@
-name = "Lemon³"
-author = "SkywardMC, OffsetMonkey538"
+name = "LEMON³"
+author = "SkywardMC, OffsetMonkey538, Isaiah"
 version = "1.41.1+1.21.11.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7cd61393c6caf473ef899e0df54dedce8bf60aa347fcfd1edca1e35ed1874dc7"
+hash = "6e1b25a177722b6637a0e1e29231a4efa5eb0d9f712d4d397756dcdfe917ea9b"
 
 [versions]
 fabric = "0.18.4"

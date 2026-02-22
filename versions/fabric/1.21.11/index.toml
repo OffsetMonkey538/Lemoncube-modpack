@@ -212,11 +212,6 @@ hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "2fb4ce2695c9f6da2087a5e350f2e85ea419de153e18bc20bf38f0b540c7caba"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9c15d70a164a6e16b09212b6a24d097003f86bb595634a66c04b9a31dff38ff4"
 metafile = true
