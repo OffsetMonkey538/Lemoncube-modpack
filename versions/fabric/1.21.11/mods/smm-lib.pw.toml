@@ -1,7 +1,13 @@
-name = "smm-lib"
+name = "ServerMainMenu Lib"
 filename = "ServerMainMenu-Lib-2.1.0.jar"
+side = "client"
 
 [download]
-url = "https://maven.offsetmonkey538.top/releases/com/mosadie/servermainmenu/ServerMainMenu-Lib/2.1.0/ServerMainMenu-Lib-2.1.0.jar"
-hash-format = "sha256"
-hash = "ad20d08571a622f32f7f651186a4994267dcef235cb99e082a655f39fabf8e8a"
+url = "https://cdn.modrinth.com/data/AbWEdxPY/versions/6EUHpGBu/ServerMainMenu-Lib-2.1.0.jar"
+hash-format = "sha512"
+hash = "8facd0e02fca50aac690e1f90491f4aa68dc1777718536ba30c86319e85ef18bb2608564ce3dd0ebbad77ab4392570c187f0837c4f6be5e5eaed63e05520ef6f"
+
+[update]
+[update.modrinth]
+mod-id = "AbWEdxPY"
+version = "6EUHpGBu"

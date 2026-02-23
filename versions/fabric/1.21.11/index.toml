@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/smm-lib.pw.toml"
-hash = "88b98f0c23ea2955037e7d9c18c313063cd8c1ba0832bbb1d621cb44b56f145b"
+hash = "46030bcda0546842058a2e45d9a7186ce4a6a178c6a53d6a03dbe52d67ab269a"
 metafile = true
 
 [[files]]
