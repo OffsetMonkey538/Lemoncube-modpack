@@ -1,2 +1,3 @@
 simulationDistance:8
 resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip"]
+key_nemos_inventory_sorting.key.sort:key.mouse.middle
