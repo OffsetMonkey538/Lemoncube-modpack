@@ -366,6 +366,11 @@ hash = "e41568e0ad45998e78a949dba7d76b7f7cd46bd2fedfeaa1c85598beec869d61"
 metafile = true
 
 [[files]]
+file = "mods/lightoverlay.pw.toml"
+hash = "eadc8bd4194d54d8e746a7d871d5c42e30e0c4d4e77cc8861ea0ba3b7382f0f2"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
 metafile = true
@@ -428,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
+metafile = true
+
+[[files]]
+file = "mods/overlaylib.pw.toml"
+hash = "161fd5bfd9554c2d54de5400d728df36c790cb6364b472c70fe1e9f19d40071b"
 metafile = true
 
 [[files]]

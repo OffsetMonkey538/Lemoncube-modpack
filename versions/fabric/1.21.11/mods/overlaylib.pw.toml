@@ -1,0 +1,13 @@
+name = "OverlayLib"
+filename = "overlaylib-0.5.0+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M1B8mLoH/versions/9bLNcO2N/overlaylib-0.5.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "be173e07be5bcc6b10f125977f27fa74cb8d50813d606cd8609a72fb6b0edb0fecd645f1ab804b519db9d7330c083f203d528087ae69e3877b4f81287f3da3d2"
+
+[update]
+[update.modrinth]
+mod-id = "M1B8mLoH"
+version = "9bLNcO2N"

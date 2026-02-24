@@ -1,0 +1,13 @@
+name = "Light Overlay"
+filename = "light-overlay-2.4.1-1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8qVa1XCN/versions/8ec70mxF/light-overlay-2.4.1-1.21.11.jar"
+hash-format = "sha512"
+hash = "fa03eb66751d6cdc2ab90025a5edeb415bd9b4c7062f5fddd68d7795924f6ebcc8d6cd0bb56da6b2599ba5531449c5c85091406ae3de26b0b3e2e00afeab2b91"
+
+[update]
+[update.modrinth]
+mod-id = "8qVa1XCN"
+version = "8ec70mxF"
