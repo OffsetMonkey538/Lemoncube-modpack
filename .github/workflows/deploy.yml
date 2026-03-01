@@ -1,0 +1,46 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Setup Go
+        uses: actions/setup-go@v6
+        with:
+          go-version: '1.25.5'
+      - name: Install Packwiz
+        run: go install github.com/packwiz/packwiz
+      - name: Build
+        run: |
+          rm -rf build
+          mkdir -p build
+          cd prismSource
+          zip -r ../build/LEMONCUBE.zip *
+          cd ../versions/fabric/1.21.11
+          cp -r config mods resourcepacks index.toml pack.toml ../../../build
+          cd ../../../build
+          packwiz refresh --build
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v4
+        id: deployment
+        with:
+          path: build
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
