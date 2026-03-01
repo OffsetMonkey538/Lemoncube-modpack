@@ -16,7 +16,7 @@ file = "config/yosbr/config/betterf3.json"
 file = "config/yosbr/config/bettergrass.json"
 
 [[files]]
-file = "config/yosbr/config/capes.json5"
+file = "config/yosbr/config/cape-provider/config.json"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
@@ -61,9 +61,6 @@ file = "config/yosbr/config/modernfix-mixins.properties"
 file = "config/yosbr/config/modmenu.json"
 
 [[files]]
-file = "config/yosbr/config/ok_zoomer/config.toml"
-
-[[files]]
 file = "config/yosbr/config/particlerain.json"
 
 [[files]]
@@ -101,9 +98,6 @@ file = "config/yosbr/config/subtle_effects/general.toml"
 
 [[files]]
 file = "config/yosbr/config/subtle_effects/items.toml"
-
-[[files]]
-file = "config/yosbr/config/threadtweak.json"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
@@ -161,7 +155,7 @@ file = "mods/calcmod.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
+file = "mods/cape-provider.pw.toml"
 metafile = true
 
 [[files]]
@@ -337,10 +331,6 @@ file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 metafile = true
 
@@ -470,6 +460,10 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
 metafile = true
 
 [[files]]
