@@ -15,7 +15,7 @@ jobs:
         with:
           go-version: '1.25.5'
       - name: Install Packwiz
-        run: go install github.com/packwiz/packwiz
+        run: go install github.com/packwiz/packwiz@latest
       - name: Build
         run: |
           rm -rf build
