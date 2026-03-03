@@ -1,0 +1,3 @@
+[submodule "mod"]
+	path = mod
+	url = https://codeberg.org/OffsetMonkey538/Lemoncube-mod.git

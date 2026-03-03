@@ -10,6 +10,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+        with:
+          submodules: true
+
+      - name: Set up JDK 21
+        uses: actions/setup-java@v5
+        with:
+          java-version: '21'
+          distribution: 'temurin'
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v5
+        with:
+          cache-read-only: false
       - name: Setup Go
         uses: actions/setup-go@v6
         with:
@@ -17,6 +29,7 @@ jobs:
       - name: Install Packwiz
         run: go install github.com/packwiz/packwiz@latest
       - name: Build
+        shell: bash
         run: |
           rm -rf build
           mkdir -p build
@@ -24,7 +37,10 @@ jobs:
           zip -r ../build/LEMONCUBE.zip *
           cd ../versions/fabric/1.21.11
           cp -r config mods resourcepacks index.toml pack.toml ../../../build
-          cd ../../../build
+          cd ../../../mod
+          ./gradlew build
+          cd ../build
+          cp ../mod/build/libs/!(*-sources.jar) mods/
           packwiz refresh --build
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v4

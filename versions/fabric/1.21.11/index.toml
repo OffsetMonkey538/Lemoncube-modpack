@@ -279,10 +279,6 @@ file = "mods/language-reload.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lemoncube.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/lightoverlay.pw.toml"
 metafile = true
 
