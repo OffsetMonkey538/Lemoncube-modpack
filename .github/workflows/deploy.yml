@@ -29,7 +29,6 @@ jobs:
       - name: Install Packwiz
         run: go install github.com/packwiz/packwiz@latest
       - name: Build
-        shell: bash
         run: |
           rm -rf build
           mkdir -p build
@@ -40,7 +39,8 @@ jobs:
           cd ../../../mod
           ./gradlew build
           cd ../build
-          cp ../mod/build/libs/!(*-sources.jar) mods/
+          cp ../mod/build/libs/*.jar mods/
+          rm mods/*-sources.jar
           packwiz refresh --build
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v4
