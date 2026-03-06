@@ -1,8 +1,8 @@
 name = "smm-lib"
-filename = "ServerMainMenu-Lib-2.1.0-multiline.jar"
+filename = "ServerMainMenu-Lib-2.2.0-multiline.jar"
 side = "both"
 
 [download]
-url = "https://maven.offsetmonkey538.top/releases/com/mosadie/ServerMainMenu-Lib/2.1.0-multiline/ServerMainMenu-Lib-2.1.0-multiline.jar"
+url = "https://maven.offsetmonkey538.top/releases/com/mosadie/ServerMainMenu-Lib/2.2.0-multiline/ServerMainMenu-Lib-2.2.0-multiline.jar"
 hash-format = "sha256"
-hash = "5ec0693679adcde8299a9e01ab1d3a0ebd452cac1f3804578ff4c24cac0b44e1"
+hash = "5df829dc34efa2db1654d24b2cd1705dbf8dfd4163566db7a0cc38948926134e"
