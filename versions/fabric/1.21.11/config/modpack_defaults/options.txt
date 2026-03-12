@@ -1,3 +1,4 @@
+version:4671
 simulationDistance:8
-resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip"]
+resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","file/Chat Reporting Helper.zip"]
 key_nemos_inventory_sorting.key.sort:key.mouse.middle
