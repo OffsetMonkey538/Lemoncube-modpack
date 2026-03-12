@@ -10,109 +10,109 @@ file = "config/crash_assistant/modlist.json"
 file = "config/isxander-main-menu-credits.json"
 
 [[files]]
-file = "config/yosbr/config/betterf3.json"
+file = "config/modpack_defaults/config/betterf3.json"
 
 [[files]]
-file = "config/yosbr/config/bettergrass.json"
+file = "config/modpack_defaults/config/bettergrass.json"
 
 [[files]]
-file = "config/yosbr/config/cape-provider/config.json"
+file = "config/modpack_defaults/config/cape-provider/config.json"
 
 [[files]]
-file = "config/yosbr/config/chatpatches.json"
+file = "config/modpack_defaults/config/chatpatches.json"
 
 [[files]]
-file = "config/yosbr/config/citresewn.json"
+file = "config/modpack_defaults/config/citresewn.json"
 
 [[files]]
-file = "config/yosbr/config/collective.json5"
+file = "config/modpack_defaults/config/collective.json5"
 
 [[files]]
-file = "config/yosbr/config/controlify.json"
+file = "config/modpack_defaults/config/controlify.json"
 
 [[files]]
-file = "config/yosbr/config/craftpresence.json"
+file = "config/modpack_defaults/config/craftpresence.json"
 
 [[files]]
-file = "config/yosbr/config/detailarmorbar.json"
+file = "config/modpack_defaults/config/detailarmorbar.json"
 
 [[files]]
-file = "config/yosbr/config/dynamic_fps.json"
+file = "config/modpack_defaults/config/dynamic_fps.json"
 
 [[files]]
-file = "config/yosbr/config/fastquit.toml"
+file = "config/modpack_defaults/config/fastquit.toml"
 
 [[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
+file = "config/modpack_defaults/config/ferritecore.mixin.properties"
 
 [[files]]
-file = "config/yosbr/config/iris.properties"
+file = "config/modpack_defaults/config/iris.properties"
 
 [[files]]
-file = "config/yosbr/config/lambdynlights.toml"
+file = "config/modpack_defaults/config/lambdynlights.toml"
 
 [[files]]
-file = "config/yosbr/config/locator-heads.json"
+file = "config/modpack_defaults/config/locator-heads.json"
 
 [[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
+file = "config/modpack_defaults/config/modernfix-mixins.properties"
 
 [[files]]
-file = "config/yosbr/config/modmenu.json"
+file = "config/modpack_defaults/config/modmenu.json"
 
 [[files]]
-file = "config/yosbr/config/particlerain.json"
+file = "config/modpack_defaults/config/particlerain.json"
 
 [[files]]
-file = "config/yosbr/config/puzzle.json"
+file = "config/modpack_defaults/config/puzzle.json"
 
 [[files]]
-file = "config/yosbr/config/replaymod.json"
+file = "config/modpack_defaults/config/replaymod.json"
 
 [[files]]
-file = "config/yosbr/config/resourcepackchecker/resourcepackchecker.properties"
+file = "config/modpack_defaults/config/resourcepackchecker/resourcepackchecker.properties"
 
 [[files]]
-file = "config/yosbr/config/sound_physics_remastered/occlusion.properties"
+file = "config/modpack_defaults/config/sound_physics_remastered/occlusion.properties"
 
 [[files]]
-file = "config/yosbr/config/sound_physics_remastered/reflectivity.properties"
+file = "config/modpack_defaults/config/sound_physics_remastered/reflectivity.properties"
 
 [[files]]
-file = "config/yosbr/config/sound_physics_remastered/sound_rates.properties"
+file = "config/modpack_defaults/config/sound_physics_remastered/sound_rates.properties"
 
 [[files]]
-file = "config/yosbr/config/sound_physics_remastered/soundphysics.properties"
+file = "config/modpack_defaults/config/sound_physics_remastered/soundphysics.properties"
 
 [[files]]
-file = "config/yosbr/config/subtle_effects/blocks.toml"
+file = "config/modpack_defaults/config/subtle_effects/blocks.toml"
 
 [[files]]
-file = "config/yosbr/config/subtle_effects/entities.toml"
+file = "config/modpack_defaults/config/subtle_effects/entities.toml"
 
 [[files]]
-file = "config/yosbr/config/subtle_effects/environment.toml"
+file = "config/modpack_defaults/config/subtle_effects/environment.toml"
 
 [[files]]
-file = "config/yosbr/config/subtle_effects/general.toml"
+file = "config/modpack_defaults/config/subtle_effects/general.toml"
 
 [[files]]
-file = "config/yosbr/config/subtle_effects/items.toml"
+file = "config/modpack_defaults/config/subtle_effects/items.toml"
 
 [[files]]
-file = "config/yosbr/config/vmp.properties"
+file = "config/modpack_defaults/config/vmp.properties"
 
 [[files]]
-file = "config/yosbr/config/voxy-config.json"
+file = "config/modpack_defaults/config/voxy-config.json"
 
 [[files]]
-file = "config/yosbr/config/world-host.json5"
+file = "config/modpack_defaults/config/world-host.json5"
 
 [[files]]
-file = "config/yosbr/config/zfastnoise.mixin.properties"
+file = "config/modpack_defaults/config/zfastnoise.mixin.properties"
 
 [[files]]
-file = "config/yosbr/options.txt"
+file = "config/modpack_defaults/options.txt"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
