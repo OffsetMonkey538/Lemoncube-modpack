@@ -1,4 +1,12 @@
 version:4671
 simulationDistance:8
+guiScale:3
+maxAnisotropyBit:2
+textureFiltering:2
 resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","file/Chat Reporting Helper.zip"]
+key_key.light-overlay.toggle:key.keyboard.f7
 key_nemos_inventory_sorting.key.sort:key.mouse.middle
+key_key.replaymod.marker:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
