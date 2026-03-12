@@ -1,12 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/crash_assistant/config.toml"
-
-[[files]]
-file = "config/crash_assistant/modlist.json"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 
 [[files]]
@@ -34,6 +28,9 @@ file = "config/modpack_defaults/config/controlify.json"
 file = "config/modpack_defaults/config/craftpresence.json"
 
 [[files]]
+file = "config/modpack_defaults/config/crash_assistant/config.toml"
+
+[[files]]
 file = "config/modpack_defaults/config/detailarmorbar.json"
 
 [[files]]
@@ -47,6 +44,9 @@ file = "config/modpack_defaults/config/ferritecore.mixin.properties"
 
 [[files]]
 file = "config/modpack_defaults/config/iris.properties"
+
+[[files]]
+file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
@@ -175,6 +175,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/configmanager.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 metafile = true
 
@@ -268,6 +272,10 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
 metafile = true
 
 [[files]]
@@ -448,10 +456,6 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
 metafile = true
 
 [[files]]
