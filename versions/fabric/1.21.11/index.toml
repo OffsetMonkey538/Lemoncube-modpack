@@ -308,13 +308,13 @@ hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot-0.0.0.jar"
+hash = "38e57c174c1aff76fc73fd64dec0291d62fa1373705cf02399c6d4d28063e2ff"
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "87dea750205910be6e5184ca4cdc3a3f2f439364435408b8e7a1036fdf3c28fc"
 metafile = true
-
-[[files]]
-file = "mods/fabrishot-0.0.0.jar"
-hash = "38e57c174c1aff76fc73fd64dec0291d62fa1373705cf02399c6d4d28063e2ff"
 
 [[files]]
 file = "mods/fastquit.pw.toml"
